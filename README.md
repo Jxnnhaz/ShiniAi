@@ -1,2 +1,0 @@
-# ShiniAi
-Minecraft Comand Aternos
